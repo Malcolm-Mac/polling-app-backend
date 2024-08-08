@@ -1,0 +1,6 @@
+@polling_app_backend_HostAddress = http://localhost:5191
+
+GET {{polling_app_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
