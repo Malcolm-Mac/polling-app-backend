@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/polling-app-backend.props" />
+</Project>

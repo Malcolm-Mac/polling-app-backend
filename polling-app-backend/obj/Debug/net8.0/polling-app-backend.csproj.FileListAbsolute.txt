@@ -74,3 +74,8 @@
 /Users/malcolmtsimo/Documents/Projects/polling-app-backend/polling-app-backend/obj/Debug/net8.0/polling-app-backend.pdb
 /Users/malcolmtsimo/Documents/Projects/polling-app-backend/polling-app-backend/obj/Debug/net8.0/polling-app-backend.genruntimeconfig.cache
 /Users/malcolmtsimo/Documents/Projects/polling-app-backend/polling-app-backend/obj/Debug/net8.0/ref/polling-app-backend.dll
+/Users/malcolmtsimo/Documents/Projects/polling-app-backend/polling-app-backend/bin/Debug/net8.0/app/web.config
+/Users/malcolmtsimo/Documents/Projects/polling-app-backend/polling-app-backend/bin/Debug/net8.0/app/appsettings.Development.json
+/Users/malcolmtsimo/Documents/Projects/polling-app-backend/polling-app-backend/bin/Debug/net8.0/app/appsettings.json
+/Users/malcolmtsimo/Documents/Projects/polling-app-backend/polling-app-backend/bin/Debug/net8.0/app/polling-app-backend.deps.json
+/Users/malcolmtsimo/Documents/Projects/polling-app-backend/polling-app-backend/bin/Debug/net8.0/app/polling-app-backend.runtimeconfig.json

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gWGD8WwrvEDAmYRr+UAqM6wBoo+A7+R3VK+OIG0OBng=",
+  "Source": "polling-app-backend",
+  "BasePath": "_content/polling-app-backend",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
