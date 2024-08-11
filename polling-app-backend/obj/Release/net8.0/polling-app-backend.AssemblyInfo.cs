@@ -12,9 +12,9 @@ using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-polling_app_backend-705a6e41-761e-4c1c-be05-b2cc600be813")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("polling-app-backend")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("release")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a43d726650652e4860b33b451d437cd877ac3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7032a7771dc350d19de5467f8222ad5a90eaf83e")]
 [assembly: System.Reflection.AssemblyProductAttribute("polling-app-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("polling-app-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

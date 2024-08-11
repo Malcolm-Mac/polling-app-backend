@@ -2,9 +2,9 @@
 
 public interface IPollRepository
 {
-   /* IEnumerable<Product> GetAll();
-    Product GetById(int id);
-    void Add(Product product);
-    void Update(Product product);
-    void Delete(Product product); */
+    Task<Poll?> GetPollByIdAsync(int pollId);
+    Task<IEnumerable<Poll>> GetAllPollsAsync();
+    Task<Poll> CreatePollAsync(Poll poll);
+    Task<bool> UpdatePollAsync(Poll poll);
+    Task<bool> DeletePollAsync(int pollId);
 }

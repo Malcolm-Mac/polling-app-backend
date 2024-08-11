@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("polling-app-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a43d726650652e4860b33b451d437cd877ac3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7032a7771dc350d19de5467f8222ad5a90eaf83e")]
 [assembly: System.Reflection.AssemblyProductAttribute("polling-app-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("polling-app-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
